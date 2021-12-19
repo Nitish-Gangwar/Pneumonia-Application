@@ -1,4 +1,4 @@
-# pneumonia_detection_app   
+# Pneumonia Detection Application   
 Hey....   
 following are the steps for deploying a machine learning project over the heroku cloud platform
 
