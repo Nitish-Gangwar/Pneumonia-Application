@@ -26,4 +26,6 @@ step4: write following commands as shown below:
      6. git push heroku master  
      
 if every thing done in correct manner and as stated as above then this will deploy your application over the heroku cloud platform.....   
-congrats....   you have deployed your application over the heroku..    
+congrats....   you have deployed your application over the heroku..
+
+I have not uploaded the weight file because the size of that file is above the par size allowed here.
